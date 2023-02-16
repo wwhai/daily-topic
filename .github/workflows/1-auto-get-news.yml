@@ -5,13 +5,15 @@ on:
     # 每天早上8点运行
     - cron: "0 8 * * *"
 jobs:
-  bot:
+  get-news:
     runs-on: ubuntu-latest
     steps:
       - name: "检查仓库"
         uses: actions/checkout@v1
       - name: "编译程序"
         run: |
+          git config --global user.email "cnwwhai@gmail.com"
+          git config --global user.name "wwhai"
           go run main.go
           git add index.md
           git commit -m "$(date)"

@@ -17,6 +17,7 @@ jobs:
           git config --global user.name "wwhai"
           go run main.go
           git add 'index.md'
+          git commit -m "$(date)"
           git push origin master
 
       # - name: 启动提交

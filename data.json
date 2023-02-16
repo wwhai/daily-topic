@@ -1,0 +1,15 @@
+{
+    "code": 0,
+    "message": "成功",
+    "data": {
+        "rollHotWordList": [
+            {
+                "hotWord": "广东一男子朝女子泼硫酸连捅数刀",
+                "searchWord": "广东一男子朝女子泼硫酸连捅数刀",
+                "tag": "",
+                "source": "normal"
+            }
+        ],
+        "requestId": "8612359344826708"
+    }
+}

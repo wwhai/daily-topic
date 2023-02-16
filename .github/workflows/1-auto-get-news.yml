@@ -16,11 +16,13 @@ jobs:
           git config --global user.email "cnwwhai@gmail.com"
           git config --global user.name "wwhai"
           go run main.go
+          git add 'index.md'
+          git push origin master
 
-      - name: 启动提交
-        uses: EndBug/add-and-commit@v9.1.1
-        with:
-          author_name: wwhai
-          author_email: cnwwhai@gmail.com
-          message: "$(date)"
-          add: 'index.md'
+      # - name: 启动提交
+      #   uses: EndBug/add-and-commit@v9.1.1
+      #   with:
+      #     author_name: wwhai
+      #     author_email: cnwwhai@gmail.com
+      #     message: "$(date)"
+      #     add: 'index.md'

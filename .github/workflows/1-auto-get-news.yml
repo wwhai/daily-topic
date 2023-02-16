@@ -10,14 +10,11 @@ jobs:
     steps:
       - name: "检查仓库"
         uses: actions/checkout@v1
-      - name: "编译程序"
-        run: |
-          git checkout master
-          git config --global user.email "cnwwhai@gmail.com"
-          git config --global user.name "wwhai"
-          go run main.go
-          git add index.md
-          git commit -m "$(date)"
-          git branch -v
-          git remote -v
-          git push origin master
+      - name: Add & Commit
+        uses: EndBug/add-and-commit@v9.1.1
+        with:
+          author_name: wwhai
+          author_email: cnwwhai@gmail.com
+          message: "$(date)"
+          add: 'index.md'
+

@@ -17,4 +17,4 @@ jobs:
           go run main.go
           git add index.md
           git commit -m "$(date)"
-          git push
+          git push origin master

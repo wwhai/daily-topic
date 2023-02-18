@@ -82,7 +82,7 @@ func main() {
 			today := time.Now().Format("2006-01-02 15:04:05")
 			n1 := strings.Replace(template, "@@DAY", today, 1)
 			n2 := strings.Replace(n1, "@@LIST", strings.Join(dataList, "\n"), 1)
-			os.WriteFile("index.md", []byte(n2), 0755)
+			os.WriteFile("readme.md", []byte(n2), 0755)
 			return
 		}
 		fmt.Println("新闻获取出错，尝试重新获取:", err)

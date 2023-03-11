@@ -17,5 +17,8 @@ jobs:
           git config --global user.name "wwhai"
           go run main.go
           git add 'readme.md'
-          git commit -m "$(date)"
+          git commit -m "$(date +%Y年%m月%d日)"
           git push origin master
+          gh release create "$(+v%Y.%d.%d)" -F readme.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

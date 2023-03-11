@@ -19,6 +19,6 @@ jobs:
           git add 'readme.md'
           git commit -m "$(date +%Y年%m月%d日)"
           git push origin master
-          gh release create "$(+v%Y.%d.%d)" -F readme.md
+          gh release create `date +v%Y.%d.%d` -F readme.md
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}

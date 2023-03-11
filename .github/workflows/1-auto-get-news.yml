@@ -13,6 +13,8 @@ jobs:
       - name: "检查仓库"
         uses: actions/checkout@v3
       - name: "编译程序"
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.email "cnwwhai@gmail.com"
           git config --global user.name "wwhai"

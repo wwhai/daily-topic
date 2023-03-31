@@ -15,11 +15,11 @@ jobs:
       - name: "编译程序"
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          git config --global user.email "cnwwhai@gmail.com"
-          git config --global user.name "wwhai"
-          go run main.go
-          git add 'readme.md'
-          git commit -m "$(date +%Y年%m月%d日)"
-          git push
-          gh release create `date +v%Y.%d.%d` -F readme.md
+        # run: |
+        #   git config --global user.email "cnwwhai@gmail.com"
+        #   git config --global user.name "wwhai"
+        #   go run main.go
+        #   git add 'readme.md'
+        #   git commit -m "$(date +%Y年%m月%d日)"
+        #   git push
+        #   gh release create `date +v%Y.%d.%d` -F readme.md

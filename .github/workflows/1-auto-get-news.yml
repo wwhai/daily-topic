@@ -21,5 +21,5 @@ jobs:
           go run main.go
           git add 'readme.md'
           git commit -m "$(date +%Y年%m月%d日)"
-          git push origin master -f
+          git push
           gh release create `date +v%Y.%d.%d` -F readme.md

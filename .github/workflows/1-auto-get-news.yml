@@ -15,7 +15,7 @@ jobs:
       - name: "编译程序"
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: cat readme.md
+        run: |
           git config --global user.email "cnwwhai@gmail.com"
           git config --global user.name "wwhai"
           go run main.go

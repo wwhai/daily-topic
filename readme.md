@@ -1,27 +1,27 @@
 
-# 每日新闻: 2023-11-28 01:00:10
+# 每日新闻: 2023-11-29 01:00:07
 ## 今日热点
 
-- **[四川4人移动脚手架碰到高压线身亡](https://www.163.com/search?keyword=%E5%9B%9B%E5%B7%9D4%E4%BA%BA%E7%A7%BB%E5%8A%A8%E8%84%9A%E6%89%8B%E6%9E%B6%E7%A2%B0%E5%88%B0%E9%AB%98%E5%8E%8B%E7%BA%BF%E8%BA%AB%E4%BA%A1)**
-- **[富力地产欠税4908万](https://www.163.com/search?keyword=%E5%AF%8C%E5%8A%9B%E5%9C%B0%E4%BA%A7%E6%AC%A0%E7%A8%8E4908%E4%B8%87)**
-- **[海底捞女员工面无表情跳“科目三”](https://www.163.com/search?keyword=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%A5%B3%E5%91%98%E5%B7%A5%E9%9D%A2%E6%97%A0%E8%A1%A8%E6%83%85%E8%B7%B3%E2%80%9C%E7%A7%91%E7%9B%AE%E4%B8%89%E2%80%9D)**
-- **[余华英丈夫落网:曾联手拐卖儿童](https://www.163.com/search?keyword=%E4%BD%99%E5%8D%8E%E8%8B%B1%E4%B8%88%E5%A4%AB%E8%90%BD%E7%BD%91+%E6%9B%BE%E8%81%94%E6%89%8B%E6%8B%90%E5%8D%96%E5%84%BF%E7%AB%A5)**
-- **[八年级女生一人拿下9张奖状](https://www.163.com/search?keyword=%E5%85%AB%E5%B9%B4%E7%BA%A7%E5%A5%B3%E7%94%9F%E4%B8%80%E4%BA%BA%E6%8B%BF%E4%B8%8B9%E5%BC%A0%E5%A5%96%E7%8A%B6)**
-- **[戴尔供应链将撤离中国？](https://www.163.com/search?keyword=%E6%88%B4%E5%B0%94%E4%BE%9B%E5%BA%94%E9%93%BE%E5%B0%86%E6%92%A4%E7%A6%BB%E4%B8%AD%E5%9B%BD%EF%BC%9F)**
-- **[刻俩萝卜章骗了300亿](https://www.163.com/search?keyword=%E5%88%BB%E4%BF%A9%E8%90%9D%E5%8D%9C%E7%AB%A0%E9%AA%97%E4%BA%86300%E4%BA%BF)**
-- **[张艺谋儿子:巴黎名媛舞会](https://www.163.com/search?keyword=%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%84%BF%E5%AD%90+%E5%B7%B4%E9%BB%8E%E5%90%8D%E5%AA%9B%E8%88%9E%E4%BC%9A)**
-- **[特斯拉回应“连撞11车事故”](https://www.163.com/search?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9B%9E%E5%BA%94%E2%80%9C%E8%BF%9E%E6%92%9E11%E8%BD%A6%E4%BA%8B%E6%95%85%E2%80%9D)**
-- **[人民大学食堂自研烤鹅腿定价15元](https://www.163.com/search?keyword=%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E9%A3%9F%E5%A0%82%E8%87%AA%E7%A0%94%E7%83%A4%E9%B9%85%E8%85%BF%E5%AE%9A%E4%BB%B715%E5%85%83)**
-- **[支原体肺炎是新冠的变异吗](https://www.163.com/search?keyword=%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%98%AF%E6%96%B0%E5%86%A0%E7%9A%84%E5%8F%98%E5%BC%82%E5%90%97)**
-- **[女生未考上985遭父亲家暴](https://www.163.com/search?keyword=%E5%A5%B3%E7%94%9F%E6%9C%AA%E8%80%83%E4%B8%8A985%E9%81%AD%E7%88%B6%E4%BA%B2%E5%AE%B6%E6%9A%B4)**
-- **[黑龙江大学食堂坐垫现多根细针](https://www.163.com/search?keyword=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%9D%90%E5%9E%AB%E7%8E%B0%E5%A4%9A%E6%A0%B9%E7%BB%86%E9%92%88)**
-- **[1—10月份我国工业企业利润持续恢复向好](https://www.163.com/search?keyword=1%E2%80%9410%E6%9C%88%E4%BB%BD%E6%88%91%E5%9B%BD%E5%B7%A5%E4%B8%9A%E4%BC%81%E4%B8%9A%E5%88%A9%E6%B6%A6%E6%8C%81%E7%BB%AD%E6%81%A2%E5%A4%8D%E5%90%91%E5%A5%BD)**
-- **[高以翔父亲去世](https://www.163.com/search?keyword=%E9%AB%98%E4%BB%A5%E7%BF%94%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96)**
-- **[专家称未来房价上涨压力很大](https://www.163.com/search?keyword=%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%9C%AA%E6%9D%A5%E6%88%BF%E4%BB%B7%E4%B8%8A%E6%B6%A8%E5%8E%8B%E5%8A%9B%E5%BE%88%E5%A4%A7)**
-- **[中共中央政治局召开会议](https://www.163.com/search?keyword=%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%8F%AC%E5%BC%80%E4%BC%9A%E8%AE%AE)**
-- **[女子婚后通讯录几乎被丈夫删光](https://www.163.com/search?keyword=%E5%A5%B3%E5%AD%90%E5%A9%9A%E5%90%8E%E9%80%9A%E8%AE%AF%E5%BD%95%E5%87%A0%E4%B9%8E%E8%A2%AB%E4%B8%88%E5%A4%AB%E5%88%A0%E5%85%89)**
-- **[深圳一公司给员工放假10个月](https://www.163.com/search?keyword=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%85%AC%E5%8F%B8%E7%BB%99%E5%91%98%E5%B7%A5%E6%94%BE%E5%81%8710%E4%B8%AA%E6%9C%88)**
-- **[四川达州发生触电事件:4人死亡](https://www.163.com/search?keyword=%E5%9B%9B%E5%B7%9D%E8%BE%BE%E5%B7%9E%E5%8F%91%E7%94%9F%E8%A7%A6%E7%94%B5%E4%BA%8B%E4%BB%B6+4%E4%BA%BA%E6%AD%BB%E4%BA%A1)**
+- **[泰国总理接到诈骗电话](https://www.163.com/search?keyword=%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%E6%8E%A5%E5%88%B0%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D)**
+- **[海底捞员工跳擦玻璃舞:被指低俗](https://www.163.com/search?keyword=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%91%98%E5%B7%A5%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E+%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97)**
+- **[波司登回应高价羽绒服](https://www.163.com/search?keyword=%E6%B3%A2%E5%8F%B8%E7%99%BB%E5%9B%9E%E5%BA%94%E9%AB%98%E4%BB%B7%E7%BE%BD%E7%BB%92%E6%9C%8D)**
+- **[乌克兰：情报总局局长夫人遭投毒](https://www.163.com/search?keyword=%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%9A%E6%83%85%E6%8A%A5%E6%80%BB%E5%B1%80%E5%B1%80%E9%95%BF%E5%A4%AB%E4%BA%BA%E9%81%AD%E6%8A%95%E6%AF%92)**
+- **[北京4所高校雄安校区全部开工](https://www.163.com/search?keyword=%E5%8C%97%E4%BA%AC4%E6%89%80%E9%AB%98%E6%A0%A1%E9%9B%84%E5%AE%89%E6%A0%A1%E5%8C%BA%E5%85%A8%E9%83%A8%E5%BC%80%E5%B7%A5)**
+- **[女儿给患癌母亲拍遗照父亲帮打光](https://www.163.com/search?keyword=%E5%A5%B3%E5%84%BF%E7%BB%99%E6%82%A3%E7%99%8C%E6%AF%8D%E4%BA%B2%E6%8B%8D%E9%81%97%E7%85%A7%E7%88%B6%E4%BA%B2%E5%B8%AE%E6%89%93%E5%85%89)**
+- **[吴艳妮：辛苦训练不是为了当网红](https://www.163.com/search?keyword=%E5%90%B4%E8%89%B3%E5%A6%AE%EF%BC%9A%E8%BE%9B%E8%8B%A6%E8%AE%AD%E7%BB%83%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E5%BD%93%E7%BD%91%E7%BA%A2)**
+- **[伊朗海军向美国航母打击群发出警告](https://www.163.com/search?keyword=%E4%BC%8A%E6%9C%97%E6%B5%B7%E5%86%9B%E5%90%91%E7%BE%8E%E5%9B%BD%E8%88%AA%E6%AF%8D%E6%89%93%E5%87%BB%E7%BE%A4%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A)**
+- **[朱丹曾被好友骗光所有积蓄](https://www.163.com/search?keyword=%E6%9C%B1%E4%B8%B9%E6%9B%BE%E8%A2%AB%E5%A5%BD%E5%8F%8B%E9%AA%97%E5%85%89%E6%89%80%E6%9C%89%E7%A7%AF%E8%93%84)**
+- **[男子称搓澡时因身材胖遭技师嘲笑](https://www.163.com/search?keyword=%E7%94%B7%E5%AD%90%E7%A7%B0%E6%90%93%E6%BE%A1%E6%97%B6%E5%9B%A0%E8%BA%AB%E6%9D%90%E8%83%96%E9%81%AD%E6%8A%80%E5%B8%88%E5%98%B2%E7%AC%91)**
+- **[滴滴辟谣一夜有司机收入超690亿](https://www.163.com/search?keyword=%E6%BB%B4%E6%BB%B4%E8%BE%9F%E8%B0%A3%E4%B8%80%E5%A4%9C%E6%9C%89%E5%8F%B8%E6%9C%BA%E6%94%B6%E5%85%A5%E8%B6%85690%E4%BA%BF)**
+- **[刘德华父亲葬礼将以私人形式举行](https://www.163.com/search?keyword=%E5%88%98%E5%BE%B7%E5%8D%8E%E7%88%B6%E4%BA%B2%E8%91%AC%E7%A4%BC%E5%B0%86%E4%BB%A5%E7%A7%81%E4%BA%BA%E5%BD%A2%E5%BC%8F%E4%B8%BE%E8%A1%8C)**
+- **[傅首尔老刘都没下车](https://www.163.com/search?keyword=%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E9%83%BD%E6%B2%A1%E4%B8%8B%E8%BD%A6)**
+- **[学校用霉变生虫大米做学生餐](https://www.163.com/search?keyword=%E5%AD%A6%E6%A0%A1%E7%94%A8%E9%9C%89%E5%8F%98%E7%94%9F%E8%99%AB%E5%A4%A7%E7%B1%B3%E5%81%9A%E5%AD%A6%E7%94%9F%E9%A4%90)**
+- **[中国10家航司取消近9000趟赴泰航班](https://www.163.com/search?keyword=%E4%B8%AD%E5%9B%BD10%E5%AE%B6%E8%88%AA%E5%8F%B8%E5%8F%96%E6%B6%88%E8%BF%919000%E8%B6%9F%E8%B5%B4%E6%B3%B0%E8%88%AA%E7%8F%AD)**
+- **[首届链博会来了](https://www.163.com/search?keyword=%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%9D%A5%E4%BA%86)**
+- **[痞幼3个月广告收入约为1620万](https://www.163.com/search?keyword=%E7%97%9E%E5%B9%BC3%E4%B8%AA%E6%9C%88%E5%B9%BF%E5%91%8A%E6%94%B6%E5%85%A5%E7%BA%A6%E4%B8%BA1620%E4%B8%87)**
+- **[员工上厕所喝水要报备？比亚迪回应](https://www.163.com/search?keyword=%E5%91%98%E5%B7%A5%E4%B8%8A%E5%8E%95%E6%89%80%E5%96%9D%E6%B0%B4%E8%A6%81%E6%8A%A5%E5%A4%87%EF%BC%9F%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9B%9E%E5%BA%94)**
+- **[大四男生华山拍照坠崖](https://www.163.com/search?keyword=%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E5%8D%8E%E5%B1%B1%E6%8B%8D%E7%85%A7%E5%9D%A0%E5%B4%96)**
+- **[河南12岁女生上体育课时猝死](https://www.163.com/search?keyword=%E6%B2%B3%E5%8D%9712%E5%B2%81%E5%A5%B3%E7%94%9F%E4%B8%8A%E4%BD%93%E8%82%B2%E8%AF%BE%E6%97%B6%E7%8C%9D%E6%AD%BB)**
 
 ## 更多
 [网易新闻] (https://www.163.com/dy/media/T1500913112740.html)

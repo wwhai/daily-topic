@@ -1,27 +1,27 @@
 
-# 每日新闻: 2023-12-26 00:57:22
+# 每日新闻: 2023-12-27 00:57:19
 ## 今日热点
 
-- **[南昌退休市长回乡当农民成“网红”](https://www.163.com/search?keyword=%E5%8D%97%E6%98%8C%E9%80%80%E4%BC%91%E5%B8%82%E9%95%BF%E5%9B%9E%E4%B9%A1%E5%BD%93%E5%86%9C%E6%B0%91%E6%88%90%E2%80%9C%E7%BD%91%E7%BA%A2%E2%80%9D)**
-- **[国务院安委办约谈黑龙江省政府](https://www.163.com/search?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AE%89%E5%A7%94%E5%8A%9E%E7%BA%A6%E8%B0%88%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%94%BF%E5%BA%9C)**
-- **[张馨予皮炎复发](https://www.163.com/search?keyword=%E5%BC%A0%E9%A6%A8%E4%BA%88%E7%9A%AE%E7%82%8E%E5%A4%8D%E5%8F%91)**
-- **[中美半导体巨头重磅和解](https://www.163.com/search?keyword=%E4%B8%AD%E7%BE%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B7%A8%E5%A4%B4%E9%87%8D%E7%A3%85%E5%92%8C%E8%A7%A3)**
-- **[吴倩张雨剑离婚后首同框](https://www.163.com/search?keyword=%E5%90%B4%E5%80%A9%E5%BC%A0%E9%9B%A8%E5%89%91%E7%A6%BB%E5%A9%9A%E5%90%8E%E9%A6%96%E5%90%8C%E6%A1%86)**
-- **[暴雪中国回应国服回归](https://www.163.com/search?keyword=%E6%9A%B4%E9%9B%AA%E4%B8%AD%E5%9B%BD%E5%9B%9E%E5%BA%94%E5%9B%BD%E6%9C%8D%E5%9B%9E%E5%BD%92)**
-- **[张艺兴入职中国国家话剧院](https://www.163.com/search?keyword=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%85%A5%E8%81%8C%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E8%AF%9D%E5%89%A7%E9%99%A2)**
-- **[上海海关查获象牙琴键507克](https://www.163.com/search?keyword=%E4%B8%8A%E6%B5%B7%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B7%E8%B1%A1%E7%89%99%E7%90%B4%E9%94%AE507%E5%85%8B)**
-- **[四川绵阳厂房爆炸？警方辟谣](https://www.163.com/search?keyword=%E5%9B%9B%E5%B7%9D%E7%BB%B5%E9%98%B3%E5%8E%82%E6%88%BF%E7%88%86%E7%82%B8%EF%BC%9F%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3)**
-- **[麦当劳回应将涨价](https://www.163.com/search?keyword=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E5%B0%86%E6%B6%A8%E4%BB%B7)**
-- **[马戏城蹦床突然断裂演员被弹飞](https://www.163.com/search?keyword=%E9%A9%AC%E6%88%8F%E5%9F%8E%E8%B9%A6%E5%BA%8A%E7%AA%81%E7%84%B6%E6%96%AD%E8%A3%82%E6%BC%94%E5%91%98%E8%A2%AB%E5%BC%B9%E9%A3%9E)**
-- **[男子订婚后被告强奸一审被判3年](https://www.163.com/search?keyword=%E7%94%B7%E5%AD%90%E8%AE%A2%E5%A9%9A%E5%90%8E%E8%A2%AB%E5%91%8A%E5%BC%BA%E5%A5%B8%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A43%E5%B9%B4)**
-- **[上海男子供养女友及其丈夫一家5年](https://www.163.com/search?keyword=%E4%B8%8A%E6%B5%B7%E7%94%B7%E5%AD%90%E4%BE%9B%E5%85%BB%E5%A5%B3%E5%8F%8B%E5%8F%8A%E5%85%B6%E4%B8%88%E5%A4%AB%E4%B8%80%E5%AE%B65%E5%B9%B4)**
-- **[2024元旦放假安排来了](https://www.163.com/search?keyword=2024%E5%85%83%E6%97%A6%E6%94%BE%E5%81%87%E5%AE%89%E6%8E%92%E6%9D%A5%E4%BA%86)**
-- **[郑爽未履行9050万案款被公告](https://www.163.com/search?keyword=%E9%83%91%E7%88%BD%E6%9C%AA%E5%B1%A5%E8%A1%8C9050%E4%B8%87%E6%A1%88%E6%AC%BE%E8%A2%AB%E5%85%AC%E5%91%8A)**
-- **[挖呀挖桃子老师每场直播收入仅千元](https://www.163.com/search?keyword=%E6%8C%96%E5%91%80%E6%8C%96%E6%A1%83%E5%AD%90%E8%80%81%E5%B8%88%E6%AF%8F%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%94%B6%E5%85%A5%E4%BB%85%E5%8D%83%E5%85%83)**
-- **[伊能静：演员秦昊是观众的不属于我](https://www.163.com/search?keyword=%E4%BC%8A%E8%83%BD%E9%9D%99%EF%BC%9A%E6%BC%94%E5%91%98%E7%A7%A6%E6%98%8A%E6%98%AF%E8%A7%82%E4%BC%97%E7%9A%84%E4%B8%8D%E5%B1%9E%E4%BA%8E%E6%88%91)**
-- **[小伙年销7万单“爱因斯坦的脑子”](https://www.163.com/search?keyword=%E5%B0%8F%E4%BC%99%E5%B9%B4%E9%94%807%E4%B8%87%E5%8D%95%E2%80%9C%E7%88%B1%E5%9B%A0%E6%96%AF%E5%9D%A6%E7%9A%84%E8%84%91%E5%AD%90%E2%80%9D)**
-- **[中办、国办：鼓励安排职工除夕休息](https://www.163.com/search?keyword=%E4%B8%AD%E5%8A%9E%E3%80%81%E5%9B%BD%E5%8A%9E%EF%BC%9A%E9%BC%93%E5%8A%B1%E5%AE%89%E6%8E%92%E8%81%8C%E5%B7%A5%E9%99%A4%E5%A4%95%E4%BC%91%E6%81%AF)**
-- **[雷军官宣造车第1000天](https://www.163.com/search?keyword=%E9%9B%B7%E5%86%9B%E5%AE%98%E5%AE%A3%E9%80%A0%E8%BD%A6%E7%AC%AC1000%E5%A4%A9)**
+- **[男子租房意外发现6枚手榴弹](https://www.163.com/search?keyword=%E7%94%B7%E5%AD%90%E7%A7%9F%E6%88%BF%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B06%E6%9E%9A%E6%89%8B%E6%A6%B4%E5%BC%B9)**
+- **[华为FreeClip耳夹耳机发布](https://www.163.com/search?keyword=%E5%8D%8E%E4%B8%BAFreeClip%E8%80%B3%E5%A4%B9%E8%80%B3%E6%9C%BA%E5%8F%91%E5%B8%83)**
+- **[以色列总理访加沙誓言加强攻击力度](https://www.163.com/search?keyword=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E8%AE%BF%E5%8A%A0%E6%B2%99%E8%AA%93%E8%A8%80%E5%8A%A0%E5%BC%BA%E6%94%BB%E5%87%BB%E5%8A%9B%E5%BA%A6)**
+- **[我国发射第57颗、58颗北斗导航卫星](https://www.163.com/search?keyword=%E6%88%91%E5%9B%BD%E5%8F%91%E5%B0%84%E7%AC%AC57%E9%A2%97%E3%80%8158%E9%A2%97%E5%8C%97%E6%96%97%E5%AF%BC%E8%88%AA%E5%8D%AB%E6%98%9F)**
+- **[2024年央视春晚彩排](https://www.163.com/search?keyword=2024%E5%B9%B4%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92)**
+- **[婆婆挑扁担来上海照顾怀孕儿媳](https://www.163.com/search?keyword=%E5%A9%86%E5%A9%86%E6%8C%91%E6%89%81%E6%8B%85%E6%9D%A5%E4%B8%8A%E6%B5%B7%E7%85%A7%E9%A1%BE%E6%80%80%E5%AD%95%E5%84%BF%E5%AA%B3)**
+- **[女子遭未婚夫强奸曾逃出呼救被拖回](https://www.163.com/search?keyword=%E5%A5%B3%E5%AD%90%E9%81%AD%E6%9C%AA%E5%A9%9A%E5%A4%AB%E5%BC%BA%E5%A5%B8%E6%9B%BE%E9%80%83%E5%87%BA%E5%91%BC%E6%95%91%E8%A2%AB%E6%8B%96%E5%9B%9E)**
+- **[女子半夜上厕所发现马桶结冰](https://www.163.com/search?keyword=%E5%A5%B3%E5%AD%90%E5%8D%8A%E5%A4%9C%E4%B8%8A%E5%8E%95%E6%89%80%E5%8F%91%E7%8E%B0%E9%A9%AC%E6%A1%B6%E7%BB%93%E5%86%B0)**
+- **[张杰谢娜跳单案中介公司注销](https://www.163.com/search?keyword=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E8%B7%B3%E5%8D%95%E6%A1%88%E4%B8%AD%E4%BB%8B%E5%85%AC%E5%8F%B8%E6%B3%A8%E9%94%80)**
+- **[南京胖哥：一年经历了半辈子的事](https://www.163.com/search?keyword=%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%EF%BC%9A%E4%B8%80%E5%B9%B4%E7%BB%8F%E5%8E%86%E4%BA%86%E5%8D%8A%E8%BE%88%E5%AD%90%E7%9A%84%E4%BA%8B)**
+- **[对话疑用“肛珠”作弊象棋选手](https://www.163.com/search?keyword=%E5%AF%B9%E8%AF%9D%E7%96%91%E7%94%A8%E2%80%9C%E8%82%9B%E7%8F%A0%E2%80%9D%E4%BD%9C%E5%BC%8A%E8%B1%A1%E6%A3%8B%E9%80%89%E6%89%8B)**
+- **[网红狐狸死在雪地里](https://www.163.com/search?keyword=%E7%BD%91%E7%BA%A2%E7%8B%90%E7%8B%B8%E6%AD%BB%E5%9C%A8%E9%9B%AA%E5%9C%B0%E9%87%8C)**
+- **[奥克斯诉格力侵权获赔5849万](https://www.163.com/search?keyword=%E5%A5%A5%E5%85%8B%E6%96%AF%E8%AF%89%E6%A0%BC%E5%8A%9B%E4%BE%B5%E6%9D%83%E8%8E%B7%E8%B5%945849%E4%B8%87)**
+- **[汪小菲被强制执行748万](https://www.163.com/search?keyword=%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C748%E4%B8%87)**
+- **[女子酒店里踩空摔瘫痪获赔119万](https://www.163.com/search?keyword=%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E9%87%8C%E8%B8%A9%E7%A9%BA%E6%91%94%E7%98%AB%E7%97%AA%E8%8E%B7%E8%B5%94119%E4%B8%87)**
+- **[羽生结弦前妻首发声](https://www.163.com/search?keyword=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%89%8D%E5%A6%BB%E9%A6%96%E5%8F%91%E5%A3%B0)**
+- **[3娃非亲生男子：孩子没一个理我了](https://www.163.com/search?keyword=3%E5%A8%83%E9%9D%9E%E4%BA%B2%E7%94%9F%E7%94%B7%E5%AD%90%EF%BC%9A%E5%AD%A9%E5%AD%90%E6%B2%A1%E4%B8%80%E4%B8%AA%E7%90%86%E6%88%91%E4%BA%86)**
+- **[克里米亚爆炸:乌称摧毁俄登陆舰](https://www.163.com/search?keyword=%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E7%88%86%E7%82%B8+%E4%B9%8C%E7%A7%B0%E6%91%A7%E6%AF%81%E4%BF%84%E7%99%BB%E9%99%86%E8%88%B0)**
+- **[大熊猫睡觉口水被冻成冰溜子](https://www.163.com/search?keyword=%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%9D%A1%E8%A7%89%E5%8F%A3%E6%B0%B4%E8%A2%AB%E5%86%BB%E6%88%90%E5%86%B0%E6%BA%9C%E5%AD%90)**
+- **[沪指失守2900点](https://www.163.com/search?keyword=%E6%B2%AA%E6%8C%87%E5%A4%B1%E5%AE%882900%E7%82%B9)**
 
 ## 更多
 [网易新闻] (https://www.163.com/dy/media/T1500913112740.html)

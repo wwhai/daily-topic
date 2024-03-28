@@ -1,26 +1,27 @@
 
-# 每日新闻: 2024-03-27 00:56:29
+# 每日新闻: 2024-03-28 00:56:49
 ## 今日热点
 
-- **[习近平同洪都拉斯总统互致贺电](https://www.163.com/search?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E6%B4%AA%E9%83%BD%E6%8B%89%E6%96%AF%E6%80%BB%E7%BB%9F%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5)**
-- **[天水20天狂赚近14亿](https://www.163.com/search?keyword=%E5%A4%A9%E6%B0%B420%E5%A4%A9%E7%8B%82%E8%B5%9A%E8%BF%9114%E4%BA%BF)**
-- **[独居男子家中死亡半年后被发现](https://www.163.com/search?keyword=%E7%8B%AC%E5%B1%85%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%AD%BB%E4%BA%A1%E5%8D%8A%E5%B9%B4%E5%90%8E%E8%A2%AB%E5%8F%91%E7%8E%B0)**
-- **[透过旗舰报告展望中国经济前景](https://www.163.com/search?keyword=%E9%80%8F%E8%BF%87%E6%97%97%E8%88%B0%E6%8A%A5%E5%91%8A%E5%B1%95%E6%9C%9B%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%89%8D%E6%99%AF)**
-- **[撞塌美大桥的货船事发前已失去动力](https://www.163.com/search?keyword=%E6%92%9E%E5%A1%8C%E7%BE%8E%E5%A4%A7%E6%A1%A5%E7%9A%84%E8%B4%A7%E8%88%B9%E4%BA%8B%E5%8F%91%E5%89%8D%E5%B7%B2%E5%A4%B1%E5%8E%BB%E5%8A%A8%E5%8A%9B)**
-- **[国足4-1大胜新加坡:武磊2球1助攻](https://www.163.com/search?keyword=%E5%9B%BD%E8%B6%B34-1%E5%A4%A7%E8%83%9C%E6%96%B0%E5%8A%A0%E5%9D%A1+%E6%AD%A6%E7%A3%8A2%E7%90%831%E5%8A%A9%E6%94%BB)**
-- **[江苏南通禁止制造、销售冥币](https://www.163.com/search?keyword=%E6%B1%9F%E8%8B%8F%E5%8D%97%E9%80%9A%E7%A6%81%E6%AD%A2%E5%88%B6%E9%80%A0%E3%80%81%E9%94%80%E5%94%AE%E5%86%A5%E5%B8%81)**
-- **[限量版行李箱被摔:吉祥航空回应](https://www.163.com/search?keyword=%E9%99%90%E9%87%8F%E7%89%88%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%A2%AB%E6%91%94+%E5%90%89%E7%A5%A5%E8%88%AA%E7%A9%BA%E5%9B%9E%E5%BA%94)**
-- **[年轻女子裸体现身商场:警方介入](https://www.163.com/search?keyword=%E5%B9%B4%E8%BD%BB%E5%A5%B3%E5%AD%90%E8%A3%B8%E4%BD%93%E7%8E%B0%E8%BA%AB%E5%95%86%E5%9C%BA+%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5)**
-- **[南通全面禁止制售封建迷信殡葬用品](https://www.163.com/search?keyword=%E5%8D%97%E9%80%9A%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E5%88%B6%E5%94%AE%E5%B0%81%E5%BB%BA%E8%BF%B7%E4%BF%A1%E6%AE%A1%E8%91%AC%E7%94%A8%E5%93%81)**
-- **[中国人民不会忘记驻南联盟使馆被炸](https://www.163.com/search?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0%E9%A9%BB%E5%8D%97%E8%81%94%E7%9B%9F%E4%BD%BF%E9%A6%86%E8%A2%AB%E7%82%B8)**
-- **[秋瓷炫喝醉被于晓光背上车](https://www.163.com/search?keyword=%E7%A7%8B%E7%93%B7%E7%82%AB%E5%96%9D%E9%86%89%E8%A2%AB%E4%BA%8E%E6%99%93%E5%85%89%E8%83%8C%E4%B8%8A%E8%BD%A6)**
-- **[山东一高速多车相撞:有人喊救命](https://www.163.com/search?keyword=%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%AB%98%E9%80%9F%E5%A4%9A%E8%BD%A6%E7%9B%B8%E6%92%9E+%E6%9C%89%E4%BA%BA%E5%96%8A%E6%95%91%E5%91%BD)**
-- **[鱼越来越难钓的原因终于找到了](https://www.163.com/search?keyword=%E9%B1%BC%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E9%92%93%E7%9A%84%E5%8E%9F%E5%9B%A0%E7%BB%88%E4%BA%8E%E6%89%BE%E5%88%B0%E4%BA%86)**
-- **[胖东来：保洁员最高年薪能拿50万](https://www.163.com/search?keyword=%E8%83%96%E4%B8%9C%E6%9D%A5%EF%BC%9A%E4%BF%9D%E6%B4%81%E5%91%98%E6%9C%80%E9%AB%98%E5%B9%B4%E8%96%AA%E8%83%BD%E6%8B%BF50%E4%B8%87)**
-- **[大地磁暴有人自称失眠头疼](https://www.163.com/search?keyword=%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E6%9C%89%E4%BA%BA%E8%87%AA%E7%A7%B0%E5%A4%B1%E7%9C%A0%E5%A4%B4%E7%96%BC)**
-- **[妇产科主任被举报参与代孕:官方调查](https://www.163.com/search?keyword=%E5%A6%87%E4%BA%A7%E7%A7%91%E4%B8%BB%E4%BB%BB%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%8F%82%E4%B8%8E%E4%BB%A3%E5%AD%95+%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5)**
-- **[山姆同款鸡腿南京卖74元上海卖29元](https://www.163.com/search?keyword=%E5%B1%B1%E5%A7%86%E5%90%8C%E6%AC%BE%E9%B8%A1%E8%85%BF%E5%8D%97%E4%BA%AC%E5%8D%9674%E5%85%83%E4%B8%8A%E6%B5%B7%E5%8D%9629%E5%85%83)**
-- **[7年前考上央美的保安现状](https://www.163.com/search?keyword=7%E5%B9%B4%E5%89%8D%E8%80%83%E4%B8%8A%E5%A4%AE%E7%BE%8E%E7%9A%84%E4%BF%9D%E5%AE%89%E7%8E%B0%E7%8A%B6)**
+- **[习近平会见荷兰首相吕特](https://www.163.com/search?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E8%8D%B7%E5%85%B0%E9%A6%96%E7%9B%B8%E5%90%95%E7%89%B9)**
+- **[北京空气质量已达严重污染](https://www.163.com/search?keyword=%E5%8C%97%E4%BA%AC%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F%E5%B7%B2%E8%BE%BE%E4%B8%A5%E9%87%8D%E6%B1%A1%E6%9F%93)**
+- **[男足原主教练李铁案今天一审开庭](https://www.163.com/search?keyword=%E7%94%B7%E8%B6%B3%E5%8E%9F%E4%B8%BB%E6%95%99%E7%BB%83%E6%9D%8E%E9%93%81%E6%A1%88%E4%BB%8A%E5%A4%A9%E4%B8%80%E5%AE%A1%E5%BC%80%E5%BA%AD)**
+- **[良田良机良法齐发力](https://www.163.com/search?keyword=%E8%89%AF%E7%94%B0%E8%89%AF%E6%9C%BA%E8%89%AF%E6%B3%95%E9%BD%90%E5%8F%91%E5%8A%9B)**
+- **[清明节前AI复活亲人成热门生意](https://www.163.com/search?keyword=%E6%B8%85%E6%98%8E%E8%8A%82%E5%89%8DAI%E5%A4%8D%E6%B4%BB%E4%BA%B2%E4%BA%BA%E6%88%90%E7%83%AD%E9%97%A8%E7%94%9F%E6%84%8F)**
+- **[国台办回应台军将在金门实弹射击](https://www.163.com/search?keyword=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%8F%B0%E5%86%9B%E5%B0%86%E5%9C%A8%E9%87%91%E9%97%A8%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB)**
+- **[王诗龄晒与李湘在英国日常](https://www.163.com/search?keyword=%E7%8E%8B%E8%AF%97%E9%BE%84%E6%99%92%E4%B8%8E%E6%9D%8E%E6%B9%98%E5%9C%A8%E8%8B%B1%E5%9B%BD%E6%97%A5%E5%B8%B8)**
+- **[大风、大雾、沙尘暴预警发布](https://www.163.com/search?keyword=%E5%A4%A7%E9%A3%8E%E3%80%81%E5%A4%A7%E9%9B%BE%E3%80%81%E6%B2%99%E5%B0%98%E6%9A%B4%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83)**
+- **[马航失联乘客家属拒绝和解](https://www.163.com/search?keyword=%E9%A9%AC%E8%88%AA%E5%A4%B1%E8%81%94%E4%B9%98%E5%AE%A2%E5%AE%B6%E5%B1%9E%E6%8B%92%E7%BB%9D%E5%92%8C%E8%A7%A3)**
+- **[加拿大鹅宣布裁员17%](https://www.163.com/search?keyword=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E5%AE%A3%E5%B8%83%E8%A3%81%E5%91%9817%25)**
+- **[女子回应男友因给不出30万彩礼分手](https://www.163.com/search?keyword=%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E7%94%B7%E5%8F%8B%E5%9B%A0%E7%BB%99%E4%B8%8D%E5%87%BA30%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%88%86%E6%89%8B)**
+- **[结婚10年女子报警称遭丈夫强奸](https://www.163.com/search?keyword=%E7%BB%93%E5%A9%9A10%E5%B9%B4%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E7%A7%B0%E9%81%AD%E4%B8%88%E5%A4%AB%E5%BC%BA%E5%A5%B8)**
+- **[蔡元培复试仍第一:北大回应是否录取](https://www.163.com/search?keyword=%E8%94%A1%E5%85%83%E5%9F%B9%E5%A4%8D%E8%AF%95%E4%BB%8D%E7%AC%AC%E4%B8%80+%E5%8C%97%E5%A4%A7%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%BD%95%E5%8F%96)**
+- **[男子打伤二嫂致死后逃匿跳楼身亡](https://www.163.com/search?keyword=%E7%94%B7%E5%AD%90%E6%89%93%E4%BC%A4%E4%BA%8C%E5%AB%82%E8%87%B4%E6%AD%BB%E5%90%8E%E9%80%83%E5%8C%BF%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1)**
+- **[国务院任免国家工作人员](https://www.163.com/search?keyword=%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%BB%BB%E5%85%8D%E5%9B%BD%E5%AE%B6%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98)**
+- **[北京：离异3年内不得购房政策取消](https://www.163.com/search?keyword=%E5%8C%97%E4%BA%AC%EF%BC%9A%E7%A6%BB%E5%BC%823%E5%B9%B4%E5%86%85%E4%B8%8D%E5%BE%97%E8%B4%AD%E6%88%BF%E6%94%BF%E7%AD%96%E5%8F%96%E6%B6%88)**
+- **[女子称打车爱上司机2年花了400万](https://www.163.com/search?keyword=%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%89%93%E8%BD%A6%E7%88%B1%E4%B8%8A%E5%8F%B8%E6%9C%BA2%E5%B9%B4%E8%8A%B1%E4%BA%86400%E4%B8%87)**
+- **[张颂文：你改下网名会不会好点](https://www.163.com/search?keyword=%E5%BC%A0%E9%A2%82%E6%96%87%EF%BC%9A%E4%BD%A0%E6%94%B9%E4%B8%8B%E7%BD%91%E5%90%8D%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%A5%BD%E7%82%B9)**
+- **[小林制药保健品已致2死106人住院](https://www.163.com/search?keyword=%E5%B0%8F%E6%9E%97%E5%88%B6%E8%8D%AF%E4%BF%9D%E5%81%A5%E5%93%81%E5%B7%B2%E8%87%B42%E6%AD%BB106%E4%BA%BA%E4%BD%8F%E9%99%A2)**
+- **[游本昌为追妻写一麻袋情书](https://www.163.com/search?keyword=%E6%B8%B8%E6%9C%AC%E6%98%8C%E4%B8%BA%E8%BF%BD%E5%A6%BB%E5%86%99%E4%B8%80%E9%BA%BB%E8%A2%8B%E6%83%85%E4%B9%A6)**
 
 ## 更多
 [网易新闻] (https://www.163.com/dy/media/T1500913112740.html)

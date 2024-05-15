@@ -1,27 +1,27 @@
 
-# 每日新闻: 2024-05-14 01:00:30
+# 每日新闻: 2024-05-15 01:00:56
 ## 今日热点
 
-- **[习主席对法国第三次国事访问纪实](https://www.163.com/search?keyword=%E4%B9%A0%E4%B8%BB%E5%B8%AD%E5%AF%B9%E6%B3%95%E5%9B%BD%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE%E7%BA%AA%E5%AE%9E)**
-- **[OpenAI发布GPT-4o](https://www.163.com/search?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-4o)**
-- **[超长期特别国债发行落地](https://www.163.com/search?keyword=%E8%B6%85%E9%95%BF%E6%9C%9F%E7%89%B9%E5%88%AB%E5%9B%BD%E5%80%BA%E5%8F%91%E8%A1%8C%E8%90%BD%E5%9C%B0)**
-- **[城乡融合发展成效明显](https://www.163.com/search?keyword=%E5%9F%8E%E4%B9%A1%E8%9E%8D%E5%90%88%E5%8F%91%E5%B1%95%E6%88%90%E6%95%88%E6%98%8E%E6%98%BE)**
-- **[安徽回应东北虎死亡事件：彻查到底](https://www.163.com/search?keyword=%E5%AE%89%E5%BE%BD%E5%9B%9E%E5%BA%94%E4%B8%9C%E5%8C%97%E8%99%8E%E6%AD%BB%E4%BA%A1%E4%BA%8B%E4%BB%B6%EF%BC%9A%E5%BD%BB%E6%9F%A5%E5%88%B0%E5%BA%95)**
-- **[独居女子凌晨遭人伸手进窗户求握手](https://www.163.com/search?keyword=%E7%8B%AC%E5%B1%85%E5%A5%B3%E5%AD%90%E5%87%8C%E6%99%A8%E9%81%AD%E4%BA%BA%E4%BC%B8%E6%89%8B%E8%BF%9B%E7%AA%97%E6%88%B7%E6%B1%82%E6%8F%A1%E6%89%8B)**
-- **[副镇长深夜命令他人妻子陪唱违法吗](https://www.163.com/search?keyword=%E5%89%AF%E9%95%87%E9%95%BF%E6%B7%B1%E5%A4%9C%E5%91%BD%E4%BB%A4%E4%BB%96%E4%BA%BA%E5%A6%BB%E5%AD%90%E9%99%AA%E5%94%B1%E8%BF%9D%E6%B3%95%E5%90%97)**
-- **[美国宣布全面禁止竞业协议](https://www.163.com/search?keyword=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E7%AB%9E%E4%B8%9A%E5%8D%8F%E8%AE%AE)**
-- **[吴艳妮不接受被称为“网红运动员”](https://www.163.com/search?keyword=%E5%90%B4%E8%89%B3%E5%A6%AE%E4%B8%8D%E6%8E%A5%E5%8F%97%E8%A2%AB%E7%A7%B0%E4%B8%BA%E2%80%9C%E7%BD%91%E7%BA%A2%E8%BF%90%E5%8A%A8%E5%91%98%E2%80%9D)**
-- **[菏泽南站爆火后连夜修路加基站](https://www.163.com/search?keyword=%E8%8F%8F%E6%B3%BD%E5%8D%97%E7%AB%99%E7%88%86%E7%81%AB%E5%90%8E%E8%BF%9E%E5%A4%9C%E4%BF%AE%E8%B7%AF%E5%8A%A0%E5%9F%BA%E7%AB%99)**
-- **[南通女孩家属呼吁大家不要再点食物](https://www.163.com/search?keyword=%E5%8D%97%E9%80%9A%E5%A5%B3%E5%AD%A9%E5%AE%B6%E5%B1%9E%E5%91%BC%E5%90%81%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%86%8D%E7%82%B9%E9%A3%9F%E7%89%A9)**
-- **[普京为何要任命经济学家担任新防长](https://www.163.com/search?keyword=%E6%99%AE%E4%BA%AC%E4%B8%BA%E4%BD%95%E8%A6%81%E4%BB%BB%E5%91%BD%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E6%8B%85%E4%BB%BB%E6%96%B0%E9%98%B2%E9%95%BF)**
-- **[特朗普称当选后将驱逐挺巴大学生](https://www.163.com/search?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BD%93%E9%80%89%E5%90%8E%E5%B0%86%E9%A9%B1%E9%80%90%E6%8C%BA%E5%B7%B4%E5%A4%A7%E5%AD%A6%E7%94%9F)**
-- **[耶伦炒中国产能过剩被美主持人质疑](https://www.163.com/search?keyword=%E8%80%B6%E4%BC%A6%E7%82%92%E4%B8%AD%E5%9B%BD%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E8%A2%AB%E7%BE%8E%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%B4%A8%E7%96%91)**
-- **[年轻人开始整顿上海相亲角了](https://www.163.com/search?keyword=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%95%B4%E9%A1%BF%E4%B8%8A%E6%B5%B7%E7%9B%B8%E4%BA%B2%E8%A7%92%E4%BA%86)**
-- **[网友曝李亚鹏拖欠工资](https://www.163.com/search?keyword=%E7%BD%91%E5%8F%8B%E6%9B%9D%E6%9D%8E%E4%BA%9A%E9%B9%8F%E6%8B%96%E6%AC%A0%E5%B7%A5%E8%B5%84)**
-- **[背背佳90天卖了一个亿](https://www.163.com/search?keyword=%E8%83%8C%E8%83%8C%E4%BD%B390%E5%A4%A9%E5%8D%96%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BA%BF)**
-- **[学生班里裸露隐私部位:教育局回应](https://www.163.com/search?keyword=%E5%AD%A6%E7%94%9F%E7%8F%AD%E9%87%8C%E8%A3%B8%E9%9C%B2%E9%9A%90%E7%A7%81%E9%83%A8%E4%BD%8D+%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94)**
-- **[男子连吃3根生香蕉致肠梗阻](https://www.163.com/search?keyword=%E7%94%B7%E5%AD%90%E8%BF%9E%E5%90%833%E6%A0%B9%E7%94%9F%E9%A6%99%E8%95%89%E8%87%B4%E8%82%A0%E6%A2%97%E9%98%BB)**
-- **[外媒：菲律宾将收紧对中国游客签证要求](https://www.163.com/search?keyword=%E5%A4%96%E5%AA%92%EF%BC%9A%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%B0%86%E6%94%B6%E7%B4%A7%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%AD%BE%E8%AF%81%E8%A6%81%E6%B1%82)**
+- **[历史性访问中的特别安排](https://www.163.com/search?keyword=%E5%8E%86%E5%8F%B2%E6%80%A7%E8%AE%BF%E9%97%AE%E4%B8%AD%E7%9A%84%E7%89%B9%E5%88%AB%E5%AE%89%E6%8E%92)**
+- **[3岁男童被狗咬伤18天后死亡](https://www.163.com/search?keyword=3%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A418%E5%A4%A9%E5%90%8E%E6%AD%BB%E4%BA%A1)**
+- **[张铁林不和范伟合作演戏的原因](https://www.163.com/search?keyword=%E5%BC%A0%E9%93%81%E6%9E%97%E4%B8%8D%E5%92%8C%E8%8C%83%E4%BC%9F%E5%90%88%E4%BD%9C%E6%BC%94%E6%88%8F%E7%9A%84%E5%8E%9F%E5%9B%A0)**
+- **[新疆初夏:万亩稻田染新绿](https://www.163.com/search?keyword=%E6%96%B0%E7%96%86%E5%88%9D%E5%A4%8F+%E4%B8%87%E4%BA%A9%E7%A8%BB%E7%94%B0%E6%9F%93%E6%96%B0%E7%BB%BF)**
+- **[河南一银行职员盗取储户存款被捕](https://www.163.com/search?keyword=%E6%B2%B3%E5%8D%97%E4%B8%80%E9%93%B6%E8%A1%8C%E8%81%8C%E5%91%98%E7%9B%97%E5%8F%96%E5%82%A8%E6%88%B7%E5%AD%98%E6%AC%BE%E8%A2%AB%E6%8D%95)**
+- **[樊振东发文：最后一舞](https://www.163.com/search?keyword=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E6%96%87%EF%BC%9A%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E)**
+- **[五金冠女装网店卷款3500万跑路](https://www.163.com/search?keyword=%E4%BA%94%E9%87%91%E5%86%A0%E5%A5%B3%E8%A3%85%E7%BD%91%E5%BA%97%E5%8D%B7%E6%AC%BE3500%E4%B8%87%E8%B7%91%E8%B7%AF)**
+- **[超长期特别国债有何特点与意义](https://www.163.com/search?keyword=%E8%B6%85%E9%95%BF%E6%9C%9F%E7%89%B9%E5%88%AB%E5%9B%BD%E5%80%BA%E6%9C%89%E4%BD%95%E7%89%B9%E7%82%B9%E4%B8%8E%E6%84%8F%E4%B9%89)**
+- **[学生成绩按闹修改？院长等被处分](https://www.163.com/search?keyword=%E5%AD%A6%E7%94%9F%E6%88%90%E7%BB%A9%E6%8C%89%E9%97%B9%E4%BF%AE%E6%94%B9%EF%BC%9F%E9%99%A2%E9%95%BF%E7%AD%89%E8%A2%AB%E5%A4%84%E5%88%86)**
+- **[普京将对华进行国事访问](https://www.163.com/search?keyword=%E6%99%AE%E4%BA%AC%E5%B0%86%E5%AF%B9%E5%8D%8E%E8%BF%9B%E8%A1%8C%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE)**
+- **[张韶涵造型团队没有瓶颈期](https://www.163.com/search?keyword=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E9%80%A0%E5%9E%8B%E5%9B%A2%E9%98%9F%E6%B2%A1%E6%9C%89%E7%93%B6%E9%A2%88%E6%9C%9F)**
+- **[小学教师奸淫猥亵幼女被执行死刑](https://www.163.com/search?keyword=%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E5%A5%B8%E6%B7%AB%E7%8C%A5%E4%BA%B5%E5%B9%BC%E5%A5%B3%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91)**
+- **[丈夫婚检查出梅毒:妻子起诉撤销婚姻](https://www.163.com/search?keyword=%E4%B8%88%E5%A4%AB%E5%A9%9A%E6%A3%80%E6%9F%A5%E5%87%BA%E6%A2%85%E6%AF%92+%E5%A6%BB%E5%AD%90%E8%B5%B7%E8%AF%89%E6%92%A4%E9%94%80%E5%A9%9A%E5%A7%BB)**
+- **[陈乔恩艾伦金扫帚影帝影后](https://www.163.com/search?keyword=%E9%99%88%E4%B9%94%E6%81%A9%E8%89%BE%E4%BC%A6%E9%87%91%E6%89%AB%E5%B8%9A%E5%BD%B1%E5%B8%9D%E5%BD%B1%E5%90%8E)**
+- **[颜宁获世界杰出女科学家奖](https://www.163.com/search?keyword=%E9%A2%9C%E5%AE%81%E8%8E%B7%E4%B8%96%E7%95%8C%E6%9D%B0%E5%87%BA%E5%A5%B3%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%A5%96)**
+- **[拒收现金:央行对7家单位开罚单](https://www.163.com/search?keyword=%E6%8B%92%E6%94%B6%E7%8E%B0%E9%87%91+%E5%A4%AE%E8%A1%8C%E5%AF%B97%E5%AE%B6%E5%8D%95%E4%BD%8D%E5%BC%80%E7%BD%9A%E5%8D%95)**
+- **[南通车祸遇难女孩已入土为安](https://www.163.com/search?keyword=%E5%8D%97%E9%80%9A%E8%BD%A6%E7%A5%B8%E9%81%87%E9%9A%BE%E5%A5%B3%E5%AD%A9%E5%B7%B2%E5%85%A5%E5%9C%9F%E4%B8%BA%E5%AE%89)**
+- **[乌克兰第一夫人首访塞尔维亚](https://www.163.com/search?keyword=%E4%B9%8C%E5%85%8B%E5%85%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E9%A6%96%E8%AE%BF%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A)**
+- **[1万亿超长国债老百姓能买吗](https://www.163.com/search?keyword=1%E4%B8%87%E4%BA%BF%E8%B6%85%E9%95%BF%E5%9B%BD%E5%80%BA%E8%80%81%E7%99%BE%E5%A7%93%E8%83%BD%E4%B9%B0%E5%90%97)**
+- **[“一天开几百个榴莲，工具都累了”](https://www.163.com/search?keyword=%E2%80%9C%E4%B8%80%E5%A4%A9%E5%BC%80%E5%87%A0%E7%99%BE%E4%B8%AA%E6%A6%B4%E8%8E%B2%EF%BC%8C%E5%B7%A5%E5%85%B7%E9%83%BD%E7%B4%AF%E4%BA%86%E2%80%9D)**
 
 ## 更多
 [网易新闻] (https://www.163.com/dy/media/T1500913112740.html)
